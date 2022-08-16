@@ -168,9 +168,7 @@ nav img {
 
   .nav-items {
     order: 1;
-    justify-content: space-around;
     margin-top: 2rem;
-    width: 100%;
   }
 
   .intro-img {
