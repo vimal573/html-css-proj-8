@@ -168,7 +168,10 @@ nav img {
 
   .nav-items {
     order: 1;
-    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 1.4rem;
+    width: 100%;
   }
 
   .intro-img {
