@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Project 8 [Live Link](https://product-homepag.netlify.app/)
+## Project 8 [Live Link](https://deesign-landing-page.netlify.app/)
 
 - Skills Gained in this project
 
