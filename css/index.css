@@ -7,6 +7,7 @@
 
 html {
   font-size: 62.5%;
+  overflow-x: hidden;
 }
 
 body {
@@ -164,13 +165,14 @@ nav img {
 
 @media screen and (max-width: 660px) {
   nav img {
-    height: 3rem;
+    height: 2.4rem;
   }
 
   .nav-items {
     order: 1;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     margin-top: 2rem;
     width: 100%;
   }
