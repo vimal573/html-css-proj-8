@@ -175,8 +175,8 @@ nav img {
 
   .intro-img {
     position: absolute;
-
+  width:30rem
     top: 2rem;
-    right: 10rem;
+    right: 8rem;
   }
 }
